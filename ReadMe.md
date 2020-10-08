@@ -5,8 +5,14 @@ As developers, we Must make web accessibility an important consideration for bus
 
 // User Story //
 Let's visualize ourselves as the marketing agency that hired our firm:
-1.   We want our codebase to follow current accessibility standards.
+1.   We want our codebase to follow current accessibility standards (ARIA).
 2.   We want our codebase to be an optimumal level, to where our site best optimized, is reached by most, if not all search engines.
+3.   We want to avoid discrimination; and legal litigation/complications.
+4.   We want to ensure that we have and keep positive relations (public and private sectors).
+5.   We wan to broaden/deepen our market pentetration.
+6.   We want to differentiate ourselves from our competitiors.
+7.   We want to drive innovation; and not fall behind the times.
+8.   We want to enhance our brand.
 
 Let's visualize ourselves as a parties, who are disabled:
 1.   We need the site to be keyboard friendly.
