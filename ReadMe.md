@@ -21,7 +21,7 @@ Let's visualize ourselves as a parties, who are disabled:
 10. We need the contents of a website to be clearly, descriptive, flow easily; and unique headers and links, etc.
 
 Let's visualize ourselves, DEVELOPERS:
-1.   We need to ensure all links all function, correctly.
+1.   We need to ensure all links all function, correctly; and USE DESCRIPTIVE ANCHORED TEXT, not "click here."
 2.   We need to ensure all CSS selectors and properties are consolidated and organized to follow semantic structure.
 3.   We need to ensure the .css file is properly commented; especially since we are already simplifying the workflow/folder(s) directories structure.
 4.   We need to ensure the website's url is still deployable.  [Can we deploy our reposotitory url live].
@@ -29,6 +29,24 @@ Let's visualize ourselves, DEVELOPERS:
 6.   We need to enhance the codebase, not utterly change the code without permission: it's good to keep the original codebase given, in another location; and copy that file, prior to refactoring the codebase.  Let's resemble at least 90% of the demo file provided (relative path: codeBase2Refactor/Assets/demo.png).
 7.   We need to follow best practices for file structure, and naming conventions.
 8.   We need to follow best practices for class/id naming conventions, indentation, quality comments, etc.
+9.   We may want to consider:
+        a.  Using Alt tags.
+        b.  Create subtitles and transcripts for media
+        c.  Ensure that we place periods at the end of our abbreviations.
+        d.  Using descriptive and unique links.
+        e.  Contrasting colors, cleary, from the color spectrum: everyone's percepetion is different, not absolute (be kind, and don't use "50 Shades of Grey").
+        f.   Use larger and wider buttons: make them more able to click, by the end user (whether disable or not, make it accessible).
+        g.  Simplicity of the content: NO ONE [tongue in cheek] likes reading a block of code, without character; and linearization (make a topic, paragraph, or an "About Us" section, but do NOT cluster any website).
+        h.  INCLUDE AN ACCESSIBILTY GUIDE (what if a standard was forgotten, or more standards ar added).  THIS IS GOING TE EXTRA MILE FOR YOUR CLIENT(S), etc.; because thy will not have to research what accessibilty standrads are implemeted; and they will know what standards are not inclueded in their website- and so will the end users!
+        i.   Researching/Getting to know the targeted audience: is our Marketing Agency more focus on a certain set of disabilties; i. e. products gear more for the blid than hearing impaired, etc.
+        j.   Identifiable/proper use of HTML headers (think semantics).
+        k.  Keyboard Accessibilty
+        l.   Image(s) Accessibilty
+        m. Creating menus, forms, and tables; while keeping all accessible and simple.
+        n.  HIGHLY SUGGEST incorporating the ARIA for Web Applications ( “Accessible Rich Internet Applications”). [Ref.: https://www.washington.edu/accessibility/web/landmarks/]
+        o.  Test your page with a screen reader (ChromeVox and Fire Vox can be added to your browser extension, quickly).
+        p.  Checking your refactored code with a tool bar ( Firefox has one called, "Accessibility Evaluation Toolbar"; and if you remembered Opera Browser (still popular in other parts of the world), they have one called, "Web Accessibility Toolbar").
+        q.  Check your refactored code with a Web-Based Checker; such as "Wave" (https://wave.webaim.org/).
 
 // Developers: For GitHub Repository Purposes //
 1.   It's a good idea to make sure you have a unique name for your repositiory.
@@ -43,3 +61,19 @@ We will know our refactor codebase is most likely to be accpeted by our Mocked M
 4.   When other Developers view the image elements, they will find accessible alt attributes.
 5.   When other Developers view the heading attributes, they will find that they fall in sequential order.
 6.   When other Developers view the title element, they will find a concised and descriptive title.
+
+// Checking a Website's Accessibilty //
+1.   The University of Washington has a great quick reference checklist on assurring a website is accessible: https://www.washington.edu/accessibility/web/ 
+2.   "Wave" (https://wave.webaim.org/)
+
+// Common Mistakes You Can Avoid (Recap) //
+Ref.: https://www.voices.com/blog/website-accessible/ 
+1.   Heading tags are improperly used (THINK SEMANTICS)
+2.   Lack of ARIA implemented
+3.   When making a paragraph for the alt text, do not make the paragraph too, long.
+4.   Use original work, or non-copyrighted material- and if you are using material that open source, please give the file a new name; rather than the long file name usually associated with a file, that is downloaded/copied from a search engine, like Google, bing, or Yahoo!
+5.   Do not focus on describing graphic designs of charts, tables, graphs, etc.  Focus more on describing the data stored, all main ponits and relations within the data.  You do not want someone saying, "That chart sounds beautiful- what's it about?"
+6.   Heavy use of ARIA vocabulary (this will create latency, and NO ONE [tongue in cheek] likes a lagging experience).
+7.   As far as accessibility purposes goes, if it has not been tested by ARIA; then it's probably not a good idea to implement (each organization will have to make that determination of their own).
+8.   Use ARIA specifications, correctly (no shortcuts).
+9.   Leaving you with my personal favorite: PSEUDO-CODE! + Commit your git with Comments!  This is where you can dictate what you were thinking, at the time you wrote your own code; or refactored someone else's code.  Again, and finally, NO ONE [tongue in cheek: always someone ;-) ] likes trying to figure out what another person was trying to do: when you code or refactor a codebase, write clean, structure, and efficient code, and Pseudo-code (explaining what it is you are trying to do).
