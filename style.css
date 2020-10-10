@@ -167,6 +167,43 @@ p {
     max-width: 150px;
 }
 
+.navBar {
+    position: fixed;
+    margin: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 0 0 0 100px;
+    transition: .3s;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: transparent;
+    color: #ffffff;
+}
+
+.navBar ul {
+    float: right;
+    margin: 10px;
+    padding: 0;
+    display: inline-flexbox;
+}
+
+.navBar ul li {
+    list-style: none;
+    text-align: center;
+}
+
+/* I was thinking about using this to make hyper-text grow larger, when hovered over, but I decided to refactor another route */
+/* .navBar ul li{
+    transform: uppercase;
+    font-weight: bold;
+    font-size: larger;
+} */
+
+.navBar ul li a.active, .navBar ul li a:hover {
+    background:#ff0038;
+    color: white;
+}
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
