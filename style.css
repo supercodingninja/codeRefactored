@@ -44,7 +44,7 @@ body {
 }
 
 /* Button added to showcase "Text Only" accesssibility */
-/* Adapted from https://www.bestcssbuttongenerator.com/ Learn how various buttons are made; and design your own button! */
+/* Adapted from [https://www.bestcssbuttongenerator.com/] Learn how various buttons are made; and design your own button! */
 button {
     display: inline-flexbox;
     box-shadow: 3px 4px 0px 0px #2f8a21;
@@ -167,6 +167,7 @@ p {
     max-width: 150px;
 }
 
+/* Original thought requires jQuery and Javascript (auto hide scroll/re-appear scroll), which I'm sure if I'm allowed to incorporate in my homework (at the time of creating this repo), yet */
 .navBar {
     position: fixed;
     margin: 0;
@@ -174,7 +175,7 @@ p {
     left: 0;
     width: 100%;
     padding: 0 0 0 100px;
-    transition: .3s;
+    /* transition: .3s; */
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: transparent;
     color: #ffffff;
@@ -188,6 +189,7 @@ p {
 }
 
 .navBar ul li {
+    display: inline-block;
     list-style: none;
     text-align: center;
 }
