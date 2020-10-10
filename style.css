@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/* The end user should not see this color, save for if the page loads slowly (due to latency), or if the img in ".hero" does not load/show */
 body {
     background-color: #d9dcd6;
 }
@@ -24,6 +25,7 @@ body {
     color: #d9dcd6;
 }
 
+/* This is where the Header banner + Links are */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -70,6 +72,8 @@ p {
 }
 
 .content {
+    margin-top: 825px;
+    margin-bottom: 32px;
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -189,6 +193,8 @@ p {
 }
 
 .footer {
+    margin-top: 1000px;
+    /* margin-bottom: 5px; */
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
