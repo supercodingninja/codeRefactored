@@ -78,38 +78,38 @@ As developers, we Must make web accessibility an important consideration for bus
     3.   It's highly suggested that your repository contains a quality README file (with description, screenshot, and link to deployed application).
 
 ### Refactored Codebase Goal(s) Accomplished/What is the Mocked Marketing Client's Acceptance Criterea for our Refactored Code Suggested
-We will know our refactor codebase is most likely to be accpeted by our Mocked Marketing Agency Client if:
-1.   Our webpage meets accessibility standards.
-2.   Other Developers can see semantic HTML elements, when viewing the source code.
-3.   When other Developers view the structure of the HTML elements, they will then find elements follow a logical structure independent of styling and positioning.
-4.   When other Developers view the image elements, they will find accessible alt attributes.
-5.   When other Developers view the heading attributes, they will find that they fall in sequential order.
-6.   When other Developers view the title element, they will find a concised and descriptive title.
+    We will know our refactor codebase is most likely to be accpeted by our Mocked Marketing Agency Client if:
+    1.   Our webpage meets accessibility standards.
+    2.   Other Developers can see semantic HTML elements, when viewing the source code.
+    3.   When other Developers view the structure of the HTML elements, they will then find elements follow a logical structure independent of styling and positioning.
+    4.   When other Developers view the image elements, they will find accessible alt attributes.
+    5.   When other Developers view the heading attributes, they will find that they fall in sequential order.
+    6.   When other Developers view the title element, they will find a concised and descriptive title.
 
 ### Checking a Website's Accessibilty
-Listed below are a few references; which can possibly assist you in checking a website's accessibility.
-1.   The University of Washington has a great quick reference checklist on assurring a website is accessible: [https://www.washington.edu/accessibility/web/]
-2.   North Carolina State University has great visual and cose source examples, etc. [https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/accessibility-handbook/mouse-and-keyboard-events/links/all-links-must-contain-either-text-or-an-image-with-alt-text/#:~:text=In%20order%20for%20a%20link,describing%20where%20the%20link%20goes.&text=However%2C%20it%20is%20alright%20to,conjunction%20with%20an%20alt%20attribute.]
-3.  "WAVE Web Accessibility Evaluation Tool" is a web accessbilty tool, from Pope Tech (enterprise system based on Wave). [https://wave.webaim.org/]
+    Listed below are a few references; which can possibly assist you in checking a website's accessibility.
+    1.   The University of Washington has a great quick reference checklist on assurring a website is accessible: [https://www.washington.edu/accessibility/web/]
+    2.   North Carolina State University has great visual and cose source examples, etc. [https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/accessibility-handbook/mouse-and-keyboard-events/links/all-links-must-contain-either-text-or-an-image-with-alt-text/#:~:text=In%20order%20for%20a%20link,describing%20where%20the%20link%20goes.&text=However%2C%20it%20is%20alright%20to,conjunction%20with%20an%20alt%20attribute.]
+    3.  "WAVE Web Accessibility Evaluation Tool" is a web accessbilty tool, from Pope Tech (enterprise system based on Wave). [https://wave.webaim.org/]
 
 ### Common Mistakes You Can Avoid (Recap)
-Reference Link: [https://www.voices.com/blog/website-accessible/]
-Listed below, are common mistakes many developers made thorughout their caeers.  You can avoid some of these mistakes; and create a more vibrant experiences throughout your career.
-1.   Heading tags are improperly used (THINK SEMANTICS)
-2.   Lack of ARIA implemented
-3.   When making a paragraph for the alt text, do not make the paragraph too, long.
-4.   Use original work, or non-copyrighted material- and if you are using material that open source, please give the file a new name; rather than the long file name usually associated with a file, that is downloaded/copied from a search engine, like Google, bing, or Yahoo!
-5.   Do not focus on describing graphic designs of charts, tables, graphs, etc.  Focus more on describing the data stored, all main ponits and relations within the data.  You do not want someone saying, "That chart sounds beautiful- what's it about?"
-6.   Heavy use of ARIA vocabulary (this will create latency, and NO ONE [tongue in cheek] likes a lagging experience).
-7.   As far as accessibility purposes goes, if it has not been tested by ARIA; then it's probably not a good idea to implement (each organization will have to make that determination of their own).
-8.   Use ARIA specifications, correctly (no shortcuts).
-9.   Leaving you with my personal favorite: PSEUDO-CODE! + Commit your git with Comments!  This is where you can dictate what you were thinking, at the time you wrote your own code; or refactored someone else's code.  Again, and finally, NO ONE [tongue in cheek: always someone ;-) ] likes trying to figure out what another person was trying to do: when you code or refactor a codebase, write clean, structure, and efficient code, and Pseudo-code (explaining what it is you are trying to do).
+    Reference Link: [https://www.voices.com/blog/website-accessible/]
+    Listed below, are common mistakes many developers made thorughout their caeers.  You can avoid some of these mistakes; and create a more vibrant experiences throughout your career.
+    1.   Heading tags are improperly used (THINK SEMANTICS)
+    2.   Lack of ARIA implemented
+    3.   When making a paragraph for the alt text, do not make the paragraph too, long.
+    4.   Use original work, or non-copyrighted material- and if you are using material that open source, please give the file a new name; rather than the long file name usually associated with a file, that is downloaded/copied from a search engine, like Google, bing, or Yahoo!
+    5.   Do not focus on describing graphic designs of charts, tables, graphs, etc.  Focus more on describing the data stored, all main ponits and relations within the data.  You do not want someone saying, "That chart sounds beautiful- what's it about?"
+    6.   Heavy use of ARIA vocabulary (this will create latency, and NO ONE [tongue in cheek] likes a lagging experience).
+    7.   As far as accessibility purposes goes, if it has not been tested by ARIA; then it's probably not a good idea to implement (each organization will have to make that determination of their own).
+    8.   Use ARIA specifications, correctly (no shortcuts).
+    9.   Leaving you with my personal favorite: PSEUDO-CODE! + Commit your git with Comments!  This is where you can dictate what you were thinking, at the time you wrote your own code; or refactored someone else's code.  Again, and finally, NO ONE [tongue in cheek: always someone ;-) ] likes trying to figure out what another person was trying to do: when you code or refactor a codebase, write clean, structure, and efficient code, and Pseudo-code (explaining what it is you are trying to do).
 
 ## Overview: Changes Made
-### ![Codebase HTML](images/codebaseHTML.png)
-### ![Recfactored HTML](images/refactoredHTML.png)
-### ![Codebase CSS](images/codebaseCSSS.png)
-### ![Refactored CSS](images/refactoredCSS.png)
+    ### ![Codebase HTML](images/codebaseHTML.png)
+    ### ![Recfactored HTML](images/refactoredHTML.png)
+    ### ![Codebase CSS](images/codebaseCSSS.png)
+    ### ![Refactored CSS](images/refactoredCSS.png)
 
 
 
