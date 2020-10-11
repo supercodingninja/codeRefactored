@@ -6,8 +6,13 @@
     * [Marketing Agency](#Let's-visualize-ourselves-as-the-marketing-agency-that-hired-our-firm)
     * [End User](#Let's-visualize-ourselves-as-parties-who-may-require-certain-accessibilty-standards-to-be-met)
     * [Developer](Let's-visualize-ourselves-DEVELOPERS)
-* [Developers: For GitHub Repository Purposes (Installation, and best Practices)](#Developers-For-GitHub-Repository-Purposes-Installation-and-best-Practices)
+* [Installation](#Developers-For-GitHub-Repository-Purposes-Installation-and-best-Practices)
+    * [Refactoring the Codebase](#Refactored-Codebase-Goal(s)-Accomplished/What-is-the-Mocked-Marketing-Client's-Acceptance-Criterea-for-our-Refactored-Code-Suggested)
+    * [Checking a Website's Accessibilty](#Checking-a-Website's-Accessibilty)
+    * [Common Mistakes You Can Avoid (Recap)](#Common-Mistakes-You-Can-Avoid-Recap)
 * [Overview: Changes Made](#Overview-Changes-Made)
+* [Repositiory End-Goal Criterea](#Refactored-Codebase-Goal(s)-Accomplished/What-is-the-Mocked-Marketing-Client's-Acceptance-Criterea-for-our-Refactored-Code-Suggested)
+* [Future Project](#Future-Project)
 
 Learn why it is vital to make a website accessible; and even better, how to make it accessible!  There's no absolute way to code; so, when I say learn how to make a website more accessible, you're going to know a few things that you should be looking for, and what you, the Developer, or your client(s) should be incorporating in your/their website(s).  I hope you enjoy the repository, below (I really had a lot of fun creating this project).  Please feel free to fork and even collaborate with me on this awesome repository!  Thank you for viewing! - Frederick Thomas, [Super Coding Ninja](https://github.com/supercodingninja)
 
@@ -72,7 +77,7 @@ As developers, we Must make web accessibility an important consideration for bus
 2.   Clone my repository; and open the IDE o your choice.
 3.   It's highly suggested that your repository contains a quality README file (with description, screenshot, and link to deployed application).
 
-## Refactored Codebase Goal(s) Accomplished/What is the Mocked Marketing Client's Acceptance Criterea for our Refactored Code Suggested
+### Refactored Codebase Goal(s) Accomplished/What is the Mocked Marketing Client's Acceptance Criterea for our Refactored Code Suggested
 We will know our refactor codebase is most likely to be accpeted by our Mocked Marketing Agency Client if:
 1.   Our webpage meets accessibility standards.
 2.   Other Developers can see semantic HTML elements, when viewing the source code.
@@ -81,13 +86,13 @@ We will know our refactor codebase is most likely to be accpeted by our Mocked M
 5.   When other Developers view the heading attributes, they will find that they fall in sequential order.
 6.   When other Developers view the title element, they will find a concised and descriptive title.
 
-## Checking a Website's Accessibilty
+### Checking a Website's Accessibilty
 Listed below are a few references; which can possibly assist you in checking a website's accessibility.
 1.   The University of Washington has a great quick reference checklist on assurring a website is accessible: [https://www.washington.edu/accessibility/web/]
 2.   North Carolina State University has great visual and cose source examples, etc. [https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/accessibility-handbook/mouse-and-keyboard-events/links/all-links-must-contain-either-text-or-an-image-with-alt-text/#:~:text=In%20order%20for%20a%20link,describing%20where%20the%20link%20goes.&text=However%2C%20it%20is%20alright%20to,conjunction%20with%20an%20alt%20attribute.]
 3.  "WAVE Web Accessibility Evaluation Tool" is a web accessbilty tool, from Pope Tech (enterprise system based on Wave). [https://wave.webaim.org/]
 
-## Common Mistakes You Can Avoid (Recap)
+### Common Mistakes You Can Avoid (Recap)
 Reference Link: [https://www.voices.com/blog/website-accessible/]
 Listed below, are common mistakes many developers made thorughout their caeers.  You can avoid some of these mistakes; and create a more vibrant experiences throughout your career.
 1.   Heading tags are improperly used (THINK SEMANTICS)
