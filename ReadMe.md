@@ -72,8 +72,9 @@ We will know our refactor codebase is most likely to be accpeted by our Mocked M
 
 ## Checking a Website's Accessibilty
 Listed below are a few references; which can possibly assist you in checking a website's accessibility.
-1.   The University of Washington has a great quick reference checklist on assurring a website is accessible: https://www.washington.edu/accessibility/web/ 
-2.   "Wave" (https://wave.webaim.org/)
+1.   The University of Washington has a great quick reference checklist on assurring a website is accessible: [https://www.washington.edu/accessibility/web/]
+2.   North Carolina State University has great visual and cose source examples, etc. [https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/accessibility-handbook/mouse-and-keyboard-events/links/all-links-must-contain-either-text-or-an-image-with-alt-text/#:~:text=In%20order%20for%20a%20link,describing%20where%20the%20link%20goes.&text=However%2C%20it%20is%20alright%20to,conjunction%20with%20an%20alt%20attribute.]
+3.  "WAVE Web Accessibility Evaluation Tool" is a web accessbilty tool, from Pope Tech (enterprise system based on Wave). [https://wave.webaim.org/]
 
 ## Common Mistakes You Can Avoid (Recap)
 Reference Link: [https://www.voices.com/blog/website-accessible/]
