@@ -1,13 +1,13 @@
 # Repository: codeRefactored
 
 ## Table of Contents
-* ### [Repository Description](#Repository-Description)
-* ### [User Story](#User-Story)
-    * #### 1.  [Marketing Agency](#Let's-visualize-ourselves-as-the-marketing-agency-that-hired-our-firm)
-    * #### 2.  [End User](#Let's-visualize-ourselves-as-parties-who-may-require-certain-accessibilty-standards-to-be-met)
-    * #### 3.  [Developer](Let's-visualize-ourselves-DEVELOPERS)
-* ### [Developers: For GitHub Repository Purposes (Installation, and best Practices)](#Developers-For-GitHub-Repository-Purposes-Installation-and-best-Practices)
-* ### [Overview: Changes Made](#Overview-Changes-Made)
+* [Repository Description](#Repository-Description)
+* [User Story](#User-Story)
+    * 1.  [Marketing Agency](#Let's-visualize-ourselves-as-the-marketing-agency-that-hired-our-firm)
+    * 2.  [End User](#Let's-visualize-ourselves-as-parties-who-may-require-certain-accessibilty-standards-to-be-met)
+    * 3.  [Developer](Let's-visualize-ourselves-DEVELOPERS)
+* [Developers: For GitHub Repository Purposes (Installation, and best Practices)](#Developers-For-GitHub-Repository-Purposes-Installation-and-best-Practices)
+* [Overview: Changes Made](#Overview-Changes-Made)
 
 Learn why it is vital to make a website accessible; and even better, how to make it accessible!  There's no absolute way to code; so, when I say learn how to make a website more accessible, you're going to know a few things that you should be looking for, and what you, the Developer, or your client(s) should be incorporating in your/their website(s).  I hope you enjoy the repository, below (I really had a lot of fun creating this project).  Please feel free to fork and even collaborate with me on this awesome repository!  Thank you for viewing! - Frederick Thomas, [Super Coding Ninja](https://github.com/supercodingninja)
 
