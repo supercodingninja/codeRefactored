@@ -23,59 +23,59 @@ As developers, we Must make web accessibility an important consideration for bus
 
 ## User Story
 ### Let's visualize ourselves as the marketing agency that hired our firm:
-1.   We want our codebase to follow current accessibility standards (ARIA).
-2.   We want our codebase to be an optimumal level, to where our site best optimized, is reached by most, if not all search engines.
-3.   We want to avoid discrimination; and legal litigation/complications.
-4.   We want to ensure that we have and keep positive relations (public and private sectors).
-5.   We want to broaden/deepen our market pentetration.
-6.   We want to differentiate ourselves from our competitiors.
-7.   We want to drive innovation; and not fall behind the times.
-8.   We want to enhance our brand.
+    1.   We want our codebase to follow current accessibility standards (ARIA).
+    2.   We want our codebase to be an optimumal level, to where our site best optimized, is reached by most, if not all search engines.
+    3.   We want to avoid discrimination; and legal litigation/complications.
+    4.   We want to ensure that we have and keep positive relations (public and private sectors).
+    5.   We want to broaden/deepen our market pentetration.
+    6.   We want to differentiate ourselves from our competitiors.
+    7.   We want to drive innovation; and not fall behind the times.
+    8.   We want to enhance our brand.
 
 ### Let's visualize ourselves as parties, who may require certain accessibilty standards to be met:
-1.   We need the site to be keyboard friendly.
-2.   We need all the content, not just some of the content, to be easily and readily accessible.
-3.   We need alternative text available.
-4.   We need clear contrast between the colors of the elements, of a website; since everyone's spectrum perception is different.
-5.   We need headers structuring the content of a website; and they have to be done so, correctly.
-6.   We need the form fields to be clearly labeled.
-7.   We need only tabular data to be simple, not complex.
-8.   We need to be able to adjust the text or font size; and the website does not break/render itself useless (especially from our original purpose).
-9.   We need to be able to choose whether we desire automatic navigation or media.
-10. We need the contents of a website to be clearly, descriptive, flow easily; and unique headers and links, etc.
+    1.   We need the site to be keyboard friendly.
+    2.   We need all the content, not just some of the content, to be easily and readily accessible.
+    3.   We need alternative text available.
+    4.   We need clear contrast between the colors of the elements, of a website; since everyone's spectrum perception is different.
+    5.   We need headers structuring the content of a website; and they have to be done so, correctly.
+    6.   We need the form fields to be clearly labeled.
+    7.   We need only tabular data to be simple, not complex.
+    8.   We need to be able to adjust the text or font size; and the website does not break/render itself useless (especially from our original purpose).
+    9.   We need to be able to choose whether we desire automatic navigation or media.
+    10. We need the contents of a website to be clearly, descriptive, flow easily; and unique headers and links, etc.
 
 ### Let's visualize ourselves, **DEVELOPERS**:
-1.   We need to ensure all links all function, correctly; and USE DESCRIPTIVE ANCHORED TEXT, not "click here."
-2.   We need to ensure all CSS selectors and properties are consolidated and organized to follow semantic structure.
-3.   We need to ensure the .css file is properly commented; especially since we are already simplifying the workflow/folder(s) directories structure.
-4.   We need to ensure the website's url is still deployable.  [Can we deploy our reposotitory url live].
-5.   We need to ensure our refactored code loads with no errors.
-6.   We need to enhance the codebase, not utterly change the code without permission: it's good to keep the original codebase given, in another location; and copy that file, prior to refactoring the codebase.  Let's resemble at least 90% of the demo file provided (relative path: codeBase2Refactor/Assets/demo.png).
-7.   We need to follow best practices for file structure, and naming conventions.
-8.   We need to follow best practices for class/id naming conventions, indentation, quality comments, etc.
-9.   We may want to consider:
-        a.  Using Alt tags.
-        b.  Create subtitles and transcripts for media
-        c.  Ensure that we place periods at the end of our abbreviations.
-        d.  Using descriptive and unique links.
-        e.  Contrasting colors, cleary, from the color spectrum: everyone's percepetion is different, not absolute (be kind, and don't use "50 Shades of Grey").
-        f.   Use larger and wider buttons: make them more able to click, by the end user (whether disable or not, make it accessible).
-        g.  Simplicity of the content: NO ONE [tongue in cheek] likes reading a block of code, without character; and linearization (make a topic, paragraph, or an "About Us" section, but do NOT cluster any website).
-        h.  INCLUDE AN ACCESSIBILTY GUIDE (what if a standard was forgotten, or more standards ar added).  THIS IS GOING TE EXTRA MILE FOR YOUR CLIENT(S), etc.; because thy will not have to research what accessibilty standrads are implemeted; and they will know what standards are not inclueded in their website- and so will the end users!
-        i.   Researching/Getting to know the targeted audience: is our Marketing Agency more focus on a certain set of disabilties; i. e. products gear more for the blid than hearing impaired, etc.
-        j.   Identifiable/proper use of HTML headers (think semantics).
-        k.  Keyboard Accessibilty
-        l.   Image(s) Accessibilty
-        m. Creating menus, forms, and tables; while keeping all accessible and simple.
-        n.  HIGHLY SUGGEST incorporating the ARIA for Web Applications ( “Accessible Rich Internet Applications”). [Ref.: https://www.washington.edu/accessibility/web/landmarks/]
-        o.  Test your page with a screen reader (ChromeVox and Fire Vox can be added to your browser extension, quickly).
-        p.  Checking your refactored code with a tool bar ( Firefox has one called, "Accessibility Evaluation Toolbar"; and if you remembered Opera Browser (still popular in other parts of the world), they have one called, "Web Accessibility Toolbar").
-        q.  Check your refactored code with a Web-Based Checker; such as "Wave" (https://wave.webaim.org/).
+    1.   We need to ensure all links all function, correctly; and USE DESCRIPTIVE ANCHORED TEXT, not "click here."
+    2.   We need to ensure all CSS selectors and properties are consolidated and organized to follow semantic structure.
+    3.   We need to ensure the .css file is properly commented; especially since we are already simplifying the workflow/folder(s) directories structure.
+    4.   We need to ensure the website's url is still deployable.  [Can we deploy our reposotitory url live].
+    5.   We need to ensure our refactored code loads with no errors.
+    6.   We need to enhance the codebase, not utterly change the code without permission: it's good to keep the original codebase given, in another location; and copy that file, prior to refactoring the codebase.  Let's resemble at least 90% of the demo file provided (relative path: codeBase2Refactor/Assets/demo.png).
+    7.   We need to follow best practices for file structure, and naming conventions.
+    8.   We need to follow best practices for class/id naming conventions, indentation, quality comments, etc.
+    9.   We may want to consider:
+            a.  Using Alt tags.
+            b.  Create subtitles and transcripts for media
+            c.  Ensure that we place periods at the end of our abbreviations.
+            d.  Using descriptive and unique links.
+            e.  Contrasting colors, cleary, from the color spectrum: everyone's percepetion is different, not absolute (be kind, and don't use "50 Shades of Grey").
+            f.   Use larger and wider buttons: make them more able to click, by the end user (whether disable or not, make it accessible).
+            g.  Simplicity of the content: NO ONE [tongue in cheek] likes reading a block of code, without character; and linearization (make a topic, paragraph, or an "About Us" section, but do NOT cluster any website).
+            h.  INCLUDE AN ACCESSIBILTY GUIDE (what if a standard was forgotten, or more standards ar added).  THIS IS GOING TE EXTRA MILE FOR YOUR CLIENT(S), etc.; because thy will not have to research what accessibilty standrads are implemeted; and they will know what standards are not inclueded in their website- and so will the end users!
+            i.   Researching/Getting to know the targeted audience: is our Marketing Agency more focus on a certain set of disabilties; i. e. products gear more for the blid than hearing impaired, etc.
+            j.   Identifiable/proper use of HTML headers (think semantics).
+            k.  Keyboard Accessibilty
+            l.   Image(s) Accessibilty
+            m. Creating menus, forms, and tables; while keeping all accessible and simple.
+            n.  HIGHLY SUGGEST incorporating the ARIA for Web Applications ( “Accessible Rich Internet Applications”). [Ref.: https://www.washington.edu/accessibility/web/landmarks/]
+            o.  Test your page with a screen reader (ChromeVox and Fire Vox can be added to your browser extension, quickly).
+            p.  Checking your refactored code with a tool bar ( Firefox has one called, "Accessibility Evaluation Toolbar"; and if you remembered Opera Browser (still popular in other parts of the world), they have one called, "Web Accessibility Toolbar").
+            q.  Check your refactored code with a Web-Based Checker; such as "Wave" (https://wave.webaim.org/).
 
 ## Developers: For GitHub Repository Purposes (Installation, and best Practices)
-1.   Please fork my repository.  It's a good idea to make sure you have a unique name for your repositiory.  It's advised that your repositroy contains multiple descriptive commit messages (this is how you and other developers can track why you/others were committing any changes made: creates more time for action, and less thought on researching prior work- move forward, not backwards).
-2.   Clone my repository; and open the IDE o your choice.
-3.   It's highly suggested that your repository contains a quality README file (with description, screenshot, and link to deployed application).
+    1.   Please fork my repository.  It's a good idea to make sure you have a unique name for your repositiory.  It's advised that your repositroy contains multiple descriptive commit messages (this is how you and other developers can track why you/others were committing any changes made: creates more time for action, and less thought on researching prior work- move forward, not backwards).
+    2.   Clone my repository; and open the IDE o your choice.
+    3.   It's highly suggested that your repository contains a quality README file (with description, screenshot, and link to deployed application).
 
 ### Refactored Codebase Goal(s) Accomplished/What is the Mocked Marketing Client's Acceptance Criterea for our Refactored Code Suggested
 We will know our refactor codebase is most likely to be accpeted by our Mocked Marketing Agency Client if:
