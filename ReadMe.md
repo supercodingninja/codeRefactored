@@ -98,7 +98,12 @@ Listed below, are common mistakes many developers made thorughout their caeers. 
 9.   Leaving you with my personal favorite: PSEUDO-CODE! + Commit your git with Comments!  This is where you can dictate what you were thinking, at the time you wrote your own code; or refactored someone else's code.  Again, and finally, NO ONE [tongue in cheek: always someone ;-) ] likes trying to figure out what another person was trying to do: when you code or refactor a codebase, write clean, structure, and efficient code, and Pseudo-code (explaining what it is you are trying to do).
 
 ## Overview: Changes Made
-### ![Codebase Screenshot](
+### ![Codebase HTML] (images/codebaseHTML.png)
+### ![Recfactored HTML] (images/refactoredHTML.png)
+### ![Codebase CSS] (images/codebaseCSSS.png)
+### ![Refactored CSS] (images/refactoredCSS.png)
+
+
 
 ## Future Project
 In the development of this repository (repo), during a peer code review, A colleague introduced me to this Markdown Cheatsheet [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet], created by Adam Pritchard [https://github.com/adam-p].  It phenomiallly assisted me on making my headers, properly.  I had structure flow; but I honestly did not know how to do a proper markdown in my ReadMe.md.  Gratitude to my colleague, Marlon, for introducing me to this great content.  You can actually dive deeper into mark down, and learn even greater details from John Gruber [https://daringfireball.net/projects/markdown/]; and of course, you can awlays refer to GitHub [https://docs.github.com/en/free-pro-team@latest/github/writing-on-github].  I decided to fork Adam-P's repo, and see if I could make a few suggestions of my own.  I hope to collaborate with this developer on this project; or at that very, least, build from his project, as others have, making personal improvements of my own: to at the very least, assist myself in my own career as a Developer (you have to keep coding and trying new ideas).  Feel free to join and collaborate with me at [[https://github.com/supercodingninja/markdown-here]  I hope you enjoy this repository [https://github.com/supercodingninja/codeRefactored]  I really had a lot of fun creating this project.  Please feel free to fork and even collaborate with me on this awesome repository!  Thank you for viewing! - Frederick Thomas, Super Coding Ninja [https://github.com/supercodingninja]
