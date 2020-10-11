@@ -1,10 +1,10 @@
-# [Repository supercodingninja/codeRefactored] (#https://github.com/supercodingninja/codeRefactored)
+# Repository: codeRefactored
 
 ## Table of Contents
-* [Repository Description] (#Repository-Description)
-* [User Story] (#User-Story)
-* [Developers: For GitHub Repository Purposes (Installation, and best Practices)] (#Developers-For-GitHub-Repository-Purposes-Installation-and-best-Practices)
-* [Overview: Changes Made] (#Overview-Changes-Made)
+* [Repository Description](#Repository-Description)
+* [User Story](#User-Story)
+* [Developers: For GitHub Repository Purposes (Installation, and best Practices)](#Developers-For-GitHub-Repository-Purposes-Installation-and-best-Practices)
+* [Overview: Changes Made](#Overview-Changes-Made)
 
 Learn why it is vital to make a website accessible; and even better, how to make it accessible!  There's no absolute way to code; so, when I say learn how to make a website more accessible, you're going to know a few things that you should be looking for, and what you, the Developer, or your client(s) should be incorporating in your/their website(s).  I hope you enjoy the repository, below (I really had a lot of fun creating this project).  Please feel free to fork and even collaborate with me on this awesome repository!  Thank you for viewing! - Frederick Thomas, Super Coding Ninja [https://github.com/supercodingninja]
 
@@ -98,10 +98,10 @@ Listed below, are common mistakes many developers made thorughout their caeers. 
 9.   Leaving you with my personal favorite: PSEUDO-CODE! + Commit your git with Comments!  This is where you can dictate what you were thinking, at the time you wrote your own code; or refactored someone else's code.  Again, and finally, NO ONE [tongue in cheek: always someone ;-) ] likes trying to figure out what another person was trying to do: when you code or refactor a codebase, write clean, structure, and efficient code, and Pseudo-code (explaining what it is you are trying to do).
 
 ## Overview: Changes Made
-### ![Codebase HTML] (images/codebaseHTML.png)
-### ![Recfactored HTML] (images/refactoredHTML.png)
-### ![Codebase CSS] (images/codebaseCSSS.png)
-### ![Refactored CSS] (images/refactoredCSS.png)
+### ![Codebase HTML](images/codebaseHTML.png)
+### ![Recfactored HTML](images/refactoredHTML.png)
+### ![Codebase CSS](images/codebaseCSSS.png)
+### ![Refactored CSS](images/refactoredCSS.png)
 
 
 
