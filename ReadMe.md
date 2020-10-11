@@ -22,14 +22,14 @@
 Learn why it is vital to make a website accessible; and even better, how to make it accessible!  There's no absolute way to code; so, when I say learn how to make a website more accessible, you're going to know a few things that you should be looking for, and what you, the Developer, or your client(s) should be incorporating in your/their website(s).  I hope you enjoy the repository, below (I really had a lot of fun creating this project).  Please feel free to fork and even collaborate with me on this awesome repository!  Thank you for viewing! - Frederick Thomas, [Super Coding Ninja™](https://github.com/supercodingninja)
 
 ## Repository Description
-###### * [Back to Table of Contents](#Table-of-Contents)
+###### [Back to Table of Contents](#Table-of-Contents)
 I am learning that some of the more difficult and common tasks for  both, front-end and junior developers, are to refactor existing code.  When I say "refactor," this is to improve the code (codebase) provided, without changing what it does; or meeting a certain set of standards, or implementing new technology.  A practice I adopted, and I believe is a common courtesy to bestow unto others, is when one party working with another party's code, incorporate "The Scout Rule."  The Scout Rule is really a recommendation, stating to always leave the code given to you to refactor, cleaner than when you found it. "CLEAN UP SOMEONE ELSE'S MESS,"  You may/maynot be thinking; but that is not the way that I suggest you think.  A good way you can impress your clients is going the extra mile:  improve any/all codebase(s) for long-term sustainability, etc.; i. e. ensure all links are functioning, correctly.  Have you ever considered reworking the CSS: to make it more efficient (you could do achieve this by consolidating CSS selectors and properties).  Does your codebase, which you refactor, follow the semantic structure of the HTML elements?  Have you ever considered including comments before each element/section of the page?  If you can refactor code, and everyone should be able to extend courtesy for their fellow person/temmate/client; then you are on your way to a successful career: so long as you keep learning, and applying what you learn.  In this repository, I will mimic what it's like to have a marketing agency hire our firm; and ask us to refactor their existing site- IT'S ALREADY ESTABLISHED- they just need us to make it more accessible. 
 
 As developers, we Must make web accessibility an important consideration for businesses we develop for.  By doing so, it will ensure that all people (disable or not) can access a website: because anyone not able to access a site, is another potential customer loss, revenue not gain; and not to mention litigation that can occur when people, who have with disabilities, cannot access a website the business hired YOU to develop/refactor (#FACT).  Plus, the more accessible sites are better positioned in search engines (Bing, Google, Yahoo!, Baidu, Yandex, Ask.com, and DuckDuckGo are only  a few).  Search Engine Optimization (SEO) is everything and every bit of a necessary survival element EVERY business  or organization needs- it's vital; so it is with an assessible website.  Just as some people may/may not wear glasses to read, some people use assistive technologies (video captions, screen readers, braille keyboards, etc.) in their day to to day operations.  When you, the developer, make a website more accessible, you not only enable an organization to succeed, you enable the user, who needs a site to have certain functions, the ability to operate as their fellow person; which makes them feel like a complete person, not forgotten or less valued.  Remember this, as a developer, your goal should be designing experiences that makes people's lives simple; because as developers, we solve problems that people didn't even knew they had, even better, in a way that they did not understand: We are the super heroes and heriones of tomorrow; so get coding, and I hope this repository helps you along your development. - [Frederick Thomas](https://www.linkedin.com/in/discoverfrederickthomas/), Super Coding Ninja™
 
 ## User Story
-###### * [Back to Table of Contents](#Table-of-Contents)
 ### Let's visualize ourselves as the marketing agency that hired our firm:
+###### [Back to Table of Contents](#Table-of-Contents)
     1.   We want our codebase to follow current accessibility standards (ARIA).
     2.   We want our codebase to be an optimumal level, to where our site best optimized, is reached by most, if not all search engines.
     3.   We want to avoid discrimination; and legal litigation/complications.
@@ -40,7 +40,7 @@ As developers, we Must make web accessibility an important consideration for bus
     8.   We want to enhance our brand.
 
 ### Let's visualize ourselves as parties, who may require certain accessibilty standards to be met:
-###### * [Back to Table of Contents](#Table-of-Contents)
+###### [Back to Table of Contents](#Table-of-Contents)
     1.   We need the site to be keyboard friendly.
     2.   We need all the content, not just some of the content, to be easily and readily accessible.
     3.   We need alternative text available.
@@ -53,7 +53,7 @@ As developers, we Must make web accessibility an important consideration for bus
     10. We need the contents of a website to be clearly, descriptive, flow easily; and unique headers and links, etc.
 
 ### Let's visualize ourselves, **DEVELOPERS**:
-###### * [Back to Table of Contents](#Table-of-Contents)
+###### [Back to Table of Contents](#Table-of-Contents)
     1.   We need to ensure all links all function, correctly; and USE DESCRIPTIVE ANCHORED TEXT, not "click here."
     2.   We need to ensure all CSS selectors and properties are consolidated and organized to follow semantic structure.
     3.   We need to ensure the .css file is properly commented; especially since we are already simplifying the workflow/folder(s) directories structure.
@@ -82,13 +82,13 @@ As developers, we Must make web accessibility an important consideration for bus
             q.  Check your refactored code with a Web-Based Checker; such as "Wave" (https://wave.webaim.org/).
 
 ## Developers: For GitHub Repository Purposes (Installation, and best Practices)
-###### * [Back to Table of Contents](#Table-of-Contents)
+###### [Back to Table of Contents](#Table-of-Contents)
     1.   Please fork my repository.  It's a good idea to make sure you have a unique name for your repositiory.  It's advised that your repositroy contains multiple descriptive commit messages (this is how you and other developers can track why you/others were committing any changes made: creates more time for action, and less thought on researching prior work- move forward, not backwards).
     2.   Clone my repository; and open the IDE o your choice.
     3.   It's highly suggested that your repository contains a quality README file (with description, screenshot, and link to deployed application).
 
 ### Refactored Codebase Goal(s) Accomplished/What is the Mocked Marketing Client's Acceptance Criterea for our Refactored Code Suggested
-###### * [Back to Table of Contents](#Table-of-Contents)
+###### [Back to Table of Contents](#Table-of-Contents)
     We will know our refactor codebase is most likely to be accpeted by our Mocked Marketing Agency Client if:
     1.   Our webpage meets accessibility standards.
     2.   Other Developers can see semantic HTML elements, when viewing the source code.
@@ -98,14 +98,14 @@ As developers, we Must make web accessibility an important consideration for bus
     6.   When other Developers view the title element, they will find a concised and descriptive title.
 
 ### Checking a Website's Accessibilty
-###### * [Back to Table of Contents](#Table-of-Contents)
+###### [Back to Table of Contents](#Table-of-Contents)
     Listed below are a few references; which can possibly assist you in checking a website's accessibility.
     1.   The University of Washington has a great quick reference checklist on assurring a website is accessible: [https://www.washington.edu/accessibility/web/]
     2.   North Carolina State University has great visual and cose source examples, etc. [https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/accessibility-handbook/mouse-and-keyboard-events/links/all-links-must-contain-either-text-or-an-image-with-alt-text/#:~:text=In%20order%20for%20a%20link,describing%20where%20the%20link%20goes.&text=However%2C%20it%20is%20alright%20to,conjunction%20with%20an%20alt%20attribute.]
     3.  "WAVE Web Accessibility Evaluation Tool" is a web accessbilty tool, from Pope Tech (enterprise system based on Wave). [https://wave.webaim.org/]
 
 ### Common Mistakes You Can Avoid (Recap)
-###### * [Back to Table of Contents](#Table-of-Contents)
+###### [Back to Table of Contents](#Table-of-Contents)
     Reference Link: [https://www.voices.com/blog/website-accessible/]
     Listed below, are common mistakes many developers made thorughout their caeers.  You can avoid some of these mistakes; and create a more vibrant experiences throughout your career.
     1.   Heading tags are improperly used (THINK SEMANTICS)
@@ -119,9 +119,8 @@ As developers, we Must make web accessibility an important consideration for bus
     9.   Leaving you with my personal favorite: PSEUDO-CODE! + Commit your git with Comments!  This is where you can dictate what you were thinking, at the time you wrote your own code; or refactored someone else's code.  Again, and finally, NO ONE [tongue in cheek: always someone ;-) ] likes trying to figure out what another person was trying to do: when you code or refactor a codebase, write clean, structure, and efficient code, and Pseudo-code (explaining what it is you are trying to do).
 
 ## Overview: Changes Made
-
 ### Workflow
-###### * [Back to Table of Contents](#Table-of-Contents)
+###### [Back to Table of Contents](#Table-of-Contents)
     1. Created a better worklfow:
         a. separated codebase directory from code refactored directory.
         b. Reduced folders needed (only one .html and .css file present).
@@ -133,14 +132,14 @@ As developers, we Must make web accessibility an important consideration for bus
     7. Published Live URL to Repository (simulating Client accepted refactored code).
 
 ### Screenshots
-###### * [Back to Table of Contents](#Table-of-Contents)
+###### [Back to Table of Contents](#Table-of-Contents)
 #### Codebase: HTML ![Codebase HTML](images/codebaseHTML.png)
 #### Recfactored: HTML ![Recfactored HTML](images/refactoredHTML.png)
 #### Codebase: CSS ![Codebase CSS](images/codebaseCSSS.png)
 #### Refactored: CSS ![Refactored CSS](images/refactoredCSS.png)
 
 ### HTML
-###### * [Back to Table of Contents](#Table-of-Contents)
+###### [Back to Table of Contents](#Table-of-Contents)
     1. Created .html file for refactored code.
     2. Proper indentions made; and <h3> Ln 33 made into <h1>
     3. Discovered Ln 13 to 27 was incorrect on semantics: after the <ul> tag, it should have been the <a href="..."></a> tag; and enclosed between <a></a> tag, should have been <li></li>. By correcting this error, the hyperlinks desired to direct viewers to other parts of te page, became functional.
@@ -157,7 +156,7 @@ As developers, we Must make web accessibility an important consideration for bus
     14. Published Live URL!
 
 ### CSS
-###### * [Back to Table of Contents](#Table-of-Contents)
+###### [Back to Table of Contents](#Table-of-Contents)
     1. Created .css file for refactored code.
     2. Discovered and changed any semantic and syntax issues; i. e. Ln 55 had an ID "hero," labeled first, as a class, "hero."
     3. Researched why "Search Engine Optimization" was not funtioning: I discovered semantic issues when Ln 32 was labeled as a class only, and not <div id="..." then the class="...">, ec. This created more issues with possibly HTML and CSS in lines 32-56.
@@ -170,5 +169,5 @@ As developers, we Must make web accessibility an important consideration for bus
     10. Published Live URL!
 
 ## Future Project
-###### * [Back to Table of Contents](#Table-of-Contents)
+###### [Back to Table of Contents](#Table-of-Contents)
 In the development of this [repository](https://github.com/supercodingninja/codeRefactored) (repo), during a peer code review, a colleague introduced me to this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), created by [Adam Pritchard](https://github.com/adam-p).  It phenomiallly assisted me on making my headers, and content structure.  I had structure flow; but I honestly did not know how to do a proper markdown in my ReadMe.md file.  Gratitude to my colleague, Marlon, for introducing me to this great repository!  You can actually dive deeper into mark down, and learn even greater details from [John Gruber](https://daringfireball.net/projects/markdown/); and of course, you can awlays refer to [GitHub](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github).  I decided to fork Adam-P's repo, and see if I could make a few suggestions of my own!  I hope to collaborate with this developer, on his project; or at the very, least, build from his project (as others have) making personal improvements of my own: to at the very least, assist myself in my own career and adventures as a Developer (you have to keep coding and trying new ideas).  Feel free to join and collaborate with [me](https://github.com/supercodingninja/markdown-here)!  I hope you enjoyed my repo!  I really had a lot of fun creating it.  Please feel free to fork and even collaborate with me on this awesome [repository](https://github.com/supercodingninja/codeRefactored).  Thank you for viewing! - Frederick Thomas, Super Coding Ninja™ [2014-Present](https://supercodingninja.github.io/) All Rights Reserved
