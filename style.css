@@ -57,6 +57,7 @@ p {
     width: 100%;
     margin-bottom: 25px;
     background-image: url("./images/digital-marketing-meeting.jpg");
+    /* The alt tag for the background image will be contained in the div it's associated to <div id="hero"> [alt="A team collaborating on ideas" title="Conference Meeting"] REFEREENCE: [https://stackoverflow.com/questions/4216035/css-background-image-alt-attribute] */
     background-size: cover;
     background-position: center;
 }
