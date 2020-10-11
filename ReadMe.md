@@ -1,12 +1,15 @@
 # Repository: codeRefactored
 
 ## Table of Contents
-* [Repository Description](#Repository-Description)
-* [User Story](#User-Story)
-* [Developers: For GitHub Repository Purposes (Installation, and best Practices)](#Developers-For-GitHub-Repository-Purposes-Installation-and-best-Practices)
-* [Overview: Changes Made](#Overview-Changes-Made)
+* ### [Repository Description](#Repository-Description)
+* ### [User Story](#User-Story)
+    * #### 1.  [Marketing Agency](#Let's-visualize-ourselves-as-the-marketing-agency-that-hired-our-firm)
+    * #### 2.  [End User](#Let's-visualize-ourselves-as-parties-who-may-require-certain-accessibilty-standards-to-be-met)
+    * #### 3.  [Developer](Let's-visualize-ourselves-DEVELOPERS)
+* ### [Developers: For GitHub Repository Purposes (Installation, and best Practices)](#Developers-For-GitHub-Repository-Purposes-Installation-and-best-Practices)
+* ### [Overview: Changes Made](#Overview-Changes-Made)
 
-Learn why it is vital to make a website accessible; and even better, how to make it accessible!  There's no absolute way to code; so, when I say learn how to make a website more accessible, you're going to know a few things that you should be looking for, and what you, the Developer, or your client(s) should be incorporating in your/their website(s).  I hope you enjoy the repository, below (I really had a lot of fun creating this project).  Please feel free to fork and even collaborate with me on this awesome repository!  Thank you for viewing! - Frederick Thomas, Super Coding Ninja [https://github.com/supercodingninja]
+Learn why it is vital to make a website accessible; and even better, how to make it accessible!  There's no absolute way to code; so, when I say learn how to make a website more accessible, you're going to know a few things that you should be looking for, and what you, the Developer, or your client(s) should be incorporating in your/their website(s).  I hope you enjoy the repository, below (I really had a lot of fun creating this project).  Please feel free to fork and even collaborate with me on this awesome repository!  Thank you for viewing! - Frederick Thomas, [Super Coding Ninja](https://github.com/supercodingninja)
 
 ## Repository Description
 I am learning that some of the more difficult and common tasks for  both, front-end and junior developers, are to refactor existing code.  When I say "refactor," this is to improve the code (codebase) provided, without changing what it does; or meeting a certain set of standards, or implementing new technology.  A practice I adopted, and I believe is a common courtesy to bestow unto others, is when one party working with another party's code, incorporate "The Scout Rule."  The Scout Rule is really a recommendation, stating to always leave the code given to you to refactor, cleaner than when you found it. "CLEAN UP SOMEONE ELSE'S MESS,"  You may/maynot be thinking; but that is not the way that I suggest you think.  A good way you can impress your clients is going the extra mile:  improve any/all codebase(s) for long-term sustainability, etc.; i. e. ensure all links are functioning, correctly.  Have you ever considered reworking the CSS: to make it more efficient (you could do achieve this by consolidating CSS selectors and properties).  Does your codebase, which you refactor, follow the semantic structure of the HTML elements?  Have you ever considered including comments before each element/section of the page?  If you can refactor code, and everyone should be able to extend courtesy for their fellow person/temmate/client; then you are on your way to a successful career: so long as you keep learning, and applying what you learn.  In this repository, I will mimic what it's like to have a marketing agency hire our firm; and ask us to refactor their existing site- IT'S ALREADY ESTABLISHED- they just need us to make it more accessible. 
@@ -19,7 +22,7 @@ As developers, we Must make web accessibility an important consideration for bus
 2.   We want our codebase to be an optimumal level, to where our site best optimized, is reached by most, if not all search engines.
 3.   We want to avoid discrimination; and legal litigation/complications.
 4.   We want to ensure that we have and keep positive relations (public and private sectors).
-5.   We wan to broaden/deepen our market pentetration.
+5.   We want to broaden/deepen our market pentetration.
 6.   We want to differentiate ourselves from our competitiors.
 7.   We want to drive innovation; and not fall behind the times.
 8.   We want to enhance our brand.
