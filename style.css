@@ -43,35 +43,6 @@ body {
     margin-left: 25px;
 }
 
-/* Button added to showcase "Text Only" accesssibility */
-/* Adapted from [https://www.bestcssbuttongenerator.com/] Learn how various buttons are made; and design your own button! */
-button {
-    display: inline-flexbox;
-    box-shadow: 3px 4px 0px 0px #2f8a21;
-    background:linear-gradient(to bottom, #4b20c4 5%, #cbf038 100%);
-    background-color:#4b20c4;
-    border-radius:18px;
-    border:1px solid #19cf7d;
-    display:inline-block;
-    cursor:pointer;
-    color:#ffffff;
-    font-family:Arial;
-    font-size:17px;
-    padding:7px 25px;
-    text-decoration:none;
-    text-shadow:0px 1px 0px #b8ffb2;    
-}
-
-button:hover {
-    background-color: #cbf038;
-    background: linear-gradient(top bottom, #cbf038 5%, #4b20c4 100%);
-}
-
-button:any-link {
-    position: relative;
-    margin-top: 2px;
-}
-
 a {
     color: #ffffff;
     text-decoration: none;
@@ -81,7 +52,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+#hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -98,6 +69,11 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
+}
+
+.navBar ul li a.active, .navBar ul li a:hover {
+    background:#ff0038;
+    color: white;
 }
 
 .content {
@@ -165,11 +141,6 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-.navBar ul li a.active, .navBar ul li a:hover {
-    background:#ff0038;
-    color: white;
 }
 
 .search-engine-optimization {
