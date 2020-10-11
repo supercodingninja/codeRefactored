@@ -1,5 +1,5 @@
 # Repository: codeRefactored
-#### © 2020-Present All Rights Reserved.  codeRefactored ® is a registered trademark of Super Coding Ninja™  All material must be cited or credited, when using material (free to use).
+#### © 2020-Present All Rights Reserved.  codeRefactored® is a registered trademark of Super Coding Ninja™  All material must be cited or credited, when using material (free to use).
 
 ## Table of Contents
 * [Repository Description](#Repository-Description)
@@ -12,6 +12,10 @@
     * [Checking a Website's Accessibilty](#Checking-a-Website's-Accessibilty)
     * [Common Mistakes You Can Avoid (Recap)](#Common-Mistakes-You-Can-Avoid-Recap)
 * [Overview: Changes Made](#Overview-Changes-Made)
+    * [Workflow](#Workflow)
+    * [Screenshots](#Screenshots)
+    * [HTML Refactored](#HTML)
+    * [CSS Refactored](#CSS)
 * [Repositiory End-Goal Criterea](#Refactored-Codebase-Goal(s)-Accomplished/What-is-the-Mocked-Marketing-Client's-Acceptance-Criterea-for-our-Refactored-Code-Suggested)
 * [Future Project](#Future-Project)
 
@@ -107,12 +111,50 @@ As developers, we Must make web accessibility an important consideration for bus
     9.   Leaving you with my personal favorite: PSEUDO-CODE! + Commit your git with Comments!  This is where you can dictate what you were thinking, at the time you wrote your own code; or refactored someone else's code.  Again, and finally, NO ONE [tongue in cheek: always someone ;-) ] likes trying to figure out what another person was trying to do: when you code or refactor a codebase, write clean, structure, and efficient code, and Pseudo-code (explaining what it is you are trying to do).
 
 ## Overview: Changes Made
-### ![Codebase HTML](images/codebaseHTML.png)
-### ![Recfactored HTML](images/refactoredHTML.png)
-### ![Codebase CSS](images/codebaseCSSS.png)
-### ![Refactored CSS](images/refactoredCSS.png)
+### Workflow
+    1. Created a better worklfow:
+        a. separated codebase directory from code refactored directory.
+        b. Reduced folders needed (only one .html and .css file present).
+    2. User story and Acceptance Critera added.
+    3. Quick reference links added to ReadMe.md file.
+    4. MAJOR CORRECTIONS, and SIMPLIFICATIONS: peer code review with colleagues.
+    5. Restructured ReadMe.md file.
+    6. Tested local machine URL, and GitHub Repository (simulating test for Client).
+    7. Published Live URL to Repository (simulating Client accepted refactored code).
 
+### Screenshots
+#### Codebase: HTML ![Codebase HTML](images/codebaseHTML.png)
+#### Recfactored: HTML ![Recfactored HTML](images/refactoredHTML.png)
+#### Codebase: CSS ![Codebase CSS](images/codebaseCSSS.png)
+#### Refactored: CSS ![Refactored CSS](images/refactoredCSS.png)
 
+### HTML
+    1. Created .html file for refactored code.
+    2. Proper indentions made; and <h3> Ln 33 made into <h1>
+    3. Discovered Ln 13 to 27 was incorrect on semantics: after the <ul> tag, it should have been the <a href="..."></a> tag; and enclosed between <a></a> tag, should have been <li></li>. By correcting this error, the hyperlinks desired to direct viewers to other parts of te page, became functional.
+    4. Researched why "Search Engine Optimization" was not funtioning: I discovered semantic issues when Ln 32 was labeled as a class only, and not <div id="..." then the class="...">, ec. This created more issues with possibly HTML and CSS in lines 32-56.
+    5. Tested and found that all page links were functional; however, semantic issues were discovered and corrected. CSS issues are now, apparent. It is necessary to fully review syntax structure and semantics.
+    6. "Text Only" .html and button added.
+    7. Semantic issue noticed in <ul> to navigation. A new class was also created to enable suggested features: this enables modifications via .css file a little easier.
+    8. navBar adjustments; and button label changed.
+    9. Corrections to links, and simple semantics were implemented.
+    10. Removed textOnly.html: unnecessary, once Alt tags, and other accessiblity requirements were made.
+    11. Implementated of alt tags.
+    12. Made correction: the alt attribute for the background image in the CSS file must be indicated in the html tag it's associated to. REFACTORING COMPLETED!!!
+    13. Tested refactored .html file: PASSED.
+    14. Published Live URL!
+
+### CSS
+    1. Created .css file for refactored code.
+    2. Discovered and changed any semantic and syntax issues; i. e. Ln 55 had an ID "hero," labeled first, as a class, "hero."
+    3. Researched why "Search Engine Optimization" was not funtioning: I discovered semantic issues when Ln 32 was labeled as a class only, and not <div id="..." then the class="...">, ec. This created more issues with possibly HTML and CSS in lines 32-56.
+    4. Added a margin-top to ln 74, in order to temporarily fix style issue discovered when links were corrected.
+    5. Semantic issue noticed in <ul> to navigation; and modifications were made.
+    6. navBar adjustments; and button label changed.
+    7. Corrections to links, and simple semantics were implemented.
+    8. Made correction: the alt attribute for the background image in the CSS file must be indicated in the html tag it's associated to. REFACTORING COMPLETED!!!
+    9. Tested refactored .css file: PASSED.
+    10. Published Live URL!
 
 ## Future Project
 In the development of this [repository](https://github.com/supercodingninja/codeRefactored) (repo), during a peer code review, a colleague introduced me to this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), created by [Adam Pritchard](https://github.com/adam-p).  It phenomiallly assisted me on making my headers, and content structure.  I had structure flow; but I honestly did not know how to do a proper markdown in my ReadMe.md file.  Gratitude to my colleague, Marlon, for introducing me to this great repository!  You can actually dive deeper into mark down, and learn even greater details from [John Gruber](https://daringfireball.net/projects/markdown/); and of course, you can awlays refer to [GitHub](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github).  I decided to fork Adam-P's repo, and see if I could make a few suggestions of my own!  I hope to collaborate with this developer, on his project; or at the very, least, build from his project (as others have) making personal improvements of my own: to at the very least, assist myself in my own career and adventures as a Developer (you have to keep coding and trying new ideas).  Feel free to join and collaborate with [me](https://github.com/supercodingninja/markdown-here)!  I hope you enjoyed my repo!  I really had a lot of fun creating it.  Please feel free to fork and even collaborate with me on this awesome [repository](https://github.com/supercodingninja/codeRefactored).  Thank you for viewing! - Frederick Thomas, Super Coding Ninja™ [2014-Present](https://supercodingninja.github.io/) All Rights Reserved
