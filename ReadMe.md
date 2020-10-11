@@ -3,9 +3,9 @@
 ## Table of Contents
 * [Repository Description](#Repository-Description)
 * [User Story](#User-Story)
-    * 1.  [Marketing Agency](#Let's-visualize-ourselves-as-the-marketing-agency-that-hired-our-firm)
-    * 2.  [End User](#Let's-visualize-ourselves-as-parties-who-may-require-certain-accessibilty-standards-to-be-met)
-    * 3.  [Developer](Let's-visualize-ourselves-DEVELOPERS)
+    * [Marketing Agency](#Let's-visualize-ourselves-as-the-marketing-agency-that-hired-our-firm)
+    * [End User](#Let's-visualize-ourselves-as-parties-who-may-require-certain-accessibilty-standards-to-be-met)
+    * [Developer](Let's-visualize-ourselves-DEVELOPERS)
 * [Developers: For GitHub Repository Purposes (Installation, and best Practices)](#Developers-For-GitHub-Repository-Purposes-Installation-and-best-Practices)
 * [Overview: Changes Made](#Overview-Changes-Made)
 
